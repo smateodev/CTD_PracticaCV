@@ -1,0 +1,61 @@
+/* Body */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Header */
+
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+.cv {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 12px;
+    margin-bottom: 120px;
+    text-align: center;
+}
+
+/* Main */
+
+.dato {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.subtitulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 8px;
+    padding: 5px;
+}
+
+ul.experiencia {
+    margin-bottom: 180px;
+}
+
+/* Footer */
+
+footer {
+    background-color: #005677;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.contacto {
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 7px;
+}
+
+i {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 85%;
+    margin-left: 25px;
+}
